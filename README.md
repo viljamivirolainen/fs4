@@ -1,4 +1,4 @@
-Projekti: Fullstackopen kurssin 4a osion tehtävät
+Projekti: Fullstackopen kurssin 4 osion tehtävät
 
 Tekija: Viljami
 
